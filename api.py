@@ -210,7 +210,7 @@ with tab1:
                     display_monster_data("Anomaly")
 
                 with st.expander("Outburst (Inner)"):
-                    display_monster_data("Lord Azaram")
+                    display_monster_data("Outburst")
 
                 with st.expander("Eradicator (Inner)"):
                     display_monster_data("Eradicator")
